@@ -7,4 +7,3 @@ venv/
 *.egg-info/
 build/
 dist/
-README copy.md
